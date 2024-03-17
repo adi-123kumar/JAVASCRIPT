@@ -1,3 +1,6 @@
+// ** There are two different types of datatype in js
+// 1.Primitive datatype >> String ,Number,Boolean,null,undefined,Symbol,BigInt
+// 2.Non primitive dattype (reference) >> Array, Objects, Functions
 // let score = "33"
 // console.log(typeof score);
 // console.log(typeof(score));
